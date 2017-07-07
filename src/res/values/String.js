@@ -1,0 +1,13 @@
+export const __TO_CAMERA__ = '无数据';
+export const __SELECT_DELETE_DATA__ = '请选择要删除的数据';
+export const __SELECT_SHARE_DATA__ = '请选择要分享的数据';
+export const __DELETE__ = '删除';
+export const __DELETE_SUCC__ = '删除成功';
+export const __DELETE_ERROR__ = '删除失败';
+export const __CANCEL__ = '取消';
+export const __SELECT_ALL__ = '全选';
+export const __CANCEL_SELECT__ = '取消全选';
+export const __PHOTO_2K__ = '图片';
+export const __VIDEO_2K__ = '视频';
+export const __TO_PREVIEW__ = '跳转到预览界面';
+export const __TO_SHARE__ = '跳转到分享界面';
